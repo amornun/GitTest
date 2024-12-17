@@ -1,5 +1,6 @@
 package ejemploPruebas;
 import java.util.Objects;
+//Esto es una prueba de Git
 
 public class Nota {
 	  private String asignatura;
